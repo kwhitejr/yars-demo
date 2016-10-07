@@ -22,7 +22,7 @@ export default {
       },
     },
     {
-      path: 'todo',
+      path: 'about',
       getComponent(location, cb) {
         System.import('containers/About')
           .then(loadRoute(cb))

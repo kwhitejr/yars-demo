@@ -1,6 +1,6 @@
 .base {
-  composes: container from "styles/utils/layout.css";
-  text-align: center;
+/*  composes: container from "styles/utils/layout.css";
+*/  text-align: center;
 }
 
 .heading {
